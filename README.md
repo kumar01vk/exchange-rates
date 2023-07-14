@@ -1,24 +1,11 @@
-# README
+Hello
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Exchange Rate App
 
-Things you may want to cover:
+It convert's desired currency values to check the current value in Real World!
+It save the rates on database
+User can download the Exchange Rates as a Spreadsheet.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Development Platform - 
+Frontend - React JS
+Backend - Ruby on Rails
